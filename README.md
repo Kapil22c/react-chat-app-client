@@ -1,4 +1,4 @@
-React Chat Application
+### React Chat Application
 ![Chat App](https://camo.githubusercontent.com/943ed267c291f0559459a04791ff2511f2b098db/68747470733a2f2f692e7974696d672e636f6d2f76692f5a77464133594d666b6f632f6d617872657364656661756c742e6a7067)
 
 ## Available Scripts
